@@ -1,5 +1,3 @@
-%% sbl with low resolution leadfield
-
 % ypost: sensor data after preprocessing
 % nd: # of directions
 % vcs = voxel covariance structure: 0 = scalar, 1 = diagonal, 2 = general
@@ -9,6 +7,7 @@
 % lf_low: leadfield in low resolution
 % lf_high: leadfield in high resolution
 
+%% sbl with low resolution leadfield
 nem = 100; %# of iterations for sbl
 rgamma = 1e-5;
 coup = 0;
