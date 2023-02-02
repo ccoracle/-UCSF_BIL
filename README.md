@@ -1,2 +1,3 @@
 # -UCSF_BIL
-matlab codes champagne
+matlab codes sbl beamformer
+for TMI paper
