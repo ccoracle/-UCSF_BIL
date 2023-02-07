@@ -7,8 +7,9 @@
 %
 % Learn voxel covariances in SBL
 % 
-% ? 2011 Convex Imaging
+% 7/2/2023
 %
+% Chang Cai, Sri, Kensuke
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
